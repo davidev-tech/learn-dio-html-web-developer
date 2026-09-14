@@ -2,9 +2,10 @@
   <h1>🌐 HTML Web Developer — Formação</h1>
   <p>
     <em>Do zero à construção das primeiras páginas web</em><br>
-    <strong>Fonte: DIO</strong>
+    <strong>Fonte: DIO (Digital Innovation One)</strong>
   </p>
   <img src="https://img.shields.io/badge/Status-Em%20andamento-yellow?style=for-the-badge&logo=code&logoColor=white" alt="Em andamento" />
+  <img src="https://img.shields.io/badge/Carga%20Horária-21h-blue?style=for-the-badge&logo=clock&logoColor=white" alt="21 horas" />
   <img src="https://img.shields.io/badge/Formação-HTML%20Web%20Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Web Developer" />
   <br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -17,19 +18,34 @@
 
 ## 📋 Sobre esta formação
 
-Formação **HTML Web Developer** da DIO, voltada para quem está iniciando no mundo do Front-end. O objetivo é aprender a estruturar páginas web do zero, dominando a marcação HTML, seus elementos semânticos e as boas práticas de desenvolvimento.
+Formação **HTML Web Developer** da DIO (Digital Innovation One), com carga horária aproximada de **21 horas**. A trilha constrói a base essencial para quem deseja iniciar na carreira de desenvolvimento Front-End, mesclando conceitos teóricos com muita prática.
 
-Esta trilha marca o início da minha jornada no Front-end, complementando minha base em Python, SQL e versionamento. O aprendizado está diretamente alinhado ao meu momento profissional na Kairos Motores, onde estou iniciando o contato com HTML, CSS e JavaScript.
+Esta formação marca o início da minha jornada no Front-end, complementando minha base em Python, SQL e versionamento. O aprendizado está diretamente alinhado ao meu momento profissional na Kairos Motores, onde estou iniciando o contato com HTML, CSS e JavaScript.
 
 ---
 
 ## 🎯 Objetivos da formação
 
-- Compreender a estrutura básica de uma página web
-- Dominar as principais tags HTML e seus atributos
-- Aplicar elementos semânticos para páginas mais acessíveis e organizadas
-- Seguir boas práticas de marcação desde o primeiro projeto
+- Entender como a web funciona por baixo dos panos (comunicação Client x Server)
+- Compreender a diferença entre Front-End e Back-End
+- Dominar a estruturação de páginas com HTML5
+- Aplicar elementos semânticos e boas práticas de marcação
 - Construir páginas web completas na prática
+
+---
+
+## 📚 Conteúdo Abordado
+
+### 1. Fundamentos da Web
+- **Comunicação Client x Server:** como o navegador (cliente) se comunica com os servidores
+- **Estrutura de Aplicações Web:** diferença entre Front-End (interface visual) e Back-End (bastidores e banco de dados)
+
+### 2. Mergulho Profundo no HTML5
+- **Introdução ao HTML e Estruturação:** como funcionam as *tags*, elementos de texto, títulos e a estrutura básica de uma página
+- **Elementos Semânticos:** uso correto de tags como `<header>`, `<main>`, `<section>`, `<article>`, `<footer>` e sua importância para acessibilidade e SEO
+- **Boas Práticas:** organização, indentação e marcação limpa desde o primeiro projeto
+
+> *Os tópicos serão detalhados conforme o avanço nos módulos da formação.*
 
 ---
 
@@ -45,27 +61,14 @@ Esta trilha marca o início da minha jornada no Front-end, complementando minha 
 
 ---
 
-## 📚 Conteúdo Abordado
-
-- Introdução ao mundo do Front-end
-- Estrutura básica de uma página HTML
-- Principais tags e atributos
-- Elementos semânticos
-- Boas práticas de marcação
-- Construção da primeira página web
-
-> *Os tópicos serão detalhados conforme o avanço nos módulos da formação.*
-
----
-
 ## 🎯 Foco Atual
 
 | Área | Status |
 |------|--------|
-| Fundamentos de HTML | 📅 Planejado |
-| Tags e atributos | 📅 Planejado |
-| Elementos semânticos | 📅 Planejado |
-| Boas práticas | 📅 Planejado |
+| Fundamentos da Web | 📅 Planejado |
+| Introdução ao HTML5 | 📅 Planejado |
+| Elementos Semânticos | 📅 Planejado |
+| Boas Práticas | 📅 Planejado |
 | Primeiro projeto prático | 🔜 Em breve |
 
 ---
@@ -84,7 +87,7 @@ Esta trilha marca o início da minha jornada no Front-end, complementando minha 
 
 ## 💡 Habilidades em Desenvolvimento
 
-- Estruturação de páginas com HTML
+- Estruturação de páginas com HTML5
 - Uso de tags semânticas
 - Boas práticas de marcação
 - Organização de código front-end
