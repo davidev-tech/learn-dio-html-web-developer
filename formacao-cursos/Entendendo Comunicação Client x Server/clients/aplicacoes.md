@@ -1,11 +1,11 @@
 ---
-modulo: <O que são clientes>
+modulo: O que são clientes
 tags:
   - aplicacoes
   - cliente-servidor
   - web
 criado: 2026-09-16
-status: rascunho
+status: Concluído
 ---
 
 # Aplicações

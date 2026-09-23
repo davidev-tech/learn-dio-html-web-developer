@@ -1,8 +1,9 @@
 ---
 tema: índice
-tags: [moc]
+tags:
+  - moc
 criado: 2026-09-16
-status: Em andamento
+status: Concluído
 ---
 
 # Índice — Anotações Complementares

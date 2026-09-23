@@ -1,12 +1,12 @@
 ---
-modulo: <O que são clientes>
+modulo: O que são clientes
 tags:
   - navegadores
   - w3c
   - compatibilidade
   - html
 criado: 2026-09-16
-status: rascunho
+status: Concluído
 ---
 
 # Navegadores e Compatibilidade Web

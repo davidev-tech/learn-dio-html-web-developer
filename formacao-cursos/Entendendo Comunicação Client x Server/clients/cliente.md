@@ -1,5 +1,5 @@
 ---
-modulo: <O que são clientes>
+modulo: O que são clientes
 tags:
   - web
   - http
@@ -7,7 +7,7 @@ tags:
   - front-end
   - cache
 criado: 2026-09-16
-status: rascunho
+status: Concluído
 ---
 
 # Fundamentos da Web
