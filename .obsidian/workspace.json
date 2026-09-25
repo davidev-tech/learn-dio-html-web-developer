@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "formacao-cursos/Entendendo Comunicação Client x Server/servers/tipos.md",
+                "file": "formacao-cursos/Entendendo Comunicação Client x Server/servers/hospedagem-site.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tipos"
+              "title": "hospedagem-site"
             }
           }
         ],
@@ -219,20 +219,21 @@
   },
   "active": "fe1f736de85236d1",
   "lastOpenFiles": [
-    "formacao-cursos/Entendendo Comunicação Client x Server/servers/hardware-softwares.md",
     "formacao-cursos/Entendendo Comunicação Client x Server/servers/tipos.md",
     "formacao-cursos/Entendendo Comunicação Client x Server/servers/servidores.md",
+    "formacao-cursos/Entendendo Comunicação Client x Server/servers/hospedagem-site.md",
+    "formacao-cursos/Entendendo Comunicação Client x Server/servers/hardware-softwares.md",
     "formacao-cursos/Entendendo Comunicação Client x Server/clients/navegadores.md",
-    "formacao-cursos/Entendendo Comunicação Client x Server/clients/dispositivos-moveis.md",
     "formacao-cursos/Entendendo Comunicação Client x Server/clients/cliente.md",
     "formacao-cursos/Entendendo Comunicação Client x Server/clients/aplicacoes.md",
-    "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/comparativos/webview-vs-nativo.md",
-    "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/duvidas/só-acesso-web-pelo-navegador.md",
-    "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/ferramentas/devtools.md",
-    "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/ferramentas/clientes-http.md",
     "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/fundamentos/web-vs-internet.md",
     "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/fundamentos/onde-o-html-roda.md",
     "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/fundamentos/navegadores.md",
+    "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/ferramentas/devtools.md",
+    "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/ferramentas/clientes-http.md",
+    "formacao-cursos/Entendendo Comunicação Client x Server/clients/dispositivos-moveis.md",
+    "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/comparativos/webview-vs-nativo.md",
+    "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/duvidas/só-acesso-web-pelo-navegador.md",
     "formacao-cursos/Entendendo Comunicação Client x Server/anotacoes-complementares/00-índice.md",
     "formacao-cursos/Entendendo Comunicação Client x Server/servers",
     "formacao-cursos/Entendendo Comunicação Client x Server/fundamentos-web/comunicacao/clients/navegadores.md",
